@@ -5,7 +5,10 @@ Follow the steps below to get Infragistics WPF Nuget packages that can be used i
 
 [Click here](https://www.infragistics.com/products/ultimate/download?p=wpf) to go to download center. Fill out your email address and click DOWNLOAD button.
 
+![](assets/00.png)
+
 You would receive an email like below image. Click the link to download the installer.
+
 ![](assets/01.png)
 
 ## Run the installer
