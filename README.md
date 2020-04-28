@@ -25,4 +25,4 @@ Congratulations! Now you have Infragistics WPF Nuget packages installed on your 
 
 ![](assets/04.png)
 
-The Nuget packages should be in your Public user's document folder <br> `C:\Users\Public\Documents\Infragistics\NuGet` <br> or your Program Files <br> `C:\Program Files (x86)\Infragistics\2019.1\WPF\NuGet Packages`.
+The Nuget packages should be in your Public user's document folder <br> `C:\Users\Public\Documents\Infragistics\NuGet` <br> or your Program Files <br> `C:\Program Files (x86)\Infragistics\2019.2\WPF\NuGet Packages`.
